@@ -22,7 +22,7 @@ public class Circle {
         System.out.println("The area of the circle is: " + ra + "mm");
 
         //Task nr.6:
-        Circle circle1 = new Circle(21, 22);
+        Circle circle1 = new Circle(21, 21);
         System.out.println(calculateArea(circle1.radius, circle1.radius1));
         }
 
