@@ -4,11 +4,9 @@ public class HomeWork2 {
     public static void main(String[] args){
         //Задание нр.4
         System.out.println("Task nr.4:");
-        int month = 13;
+        int month = -1;
         switch(month){
-            case 0:
-                System.out.println("Doesn't exist");
-                break;
+
             case 1:
                 System.out.println("January");
                 break;
